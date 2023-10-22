@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently a freelance developer
+- 🔭 I’m currently a full stack developer
 - 🌱 My blog is https://medium.com/@cdndns
 
 <a href="https://github.com/nicelizhi">
