@@ -1,6 +1,5 @@
 ### Hi 👋，I'm Steve
 
-[![Github](https://img.shields.io/github/followers/nicelizhi?label=Follow&style=social)](https://github.com/nicelizhi)
 
 - 🔭 I’m currently a full stack freelance developer
 - 🌱 My blog is https://medium.com/@cdndns
