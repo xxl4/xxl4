@@ -15,3 +15,4 @@
 ### ☕ Get In Touch
 [![Gmail](https://img.shields.io/badge/-Gmail?style=flat&logo=Gmail&logoColor=white)](mailto:nice.lizhi@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kongfaceworld)
+[![Blog](https://img.shields.io/badge/Blog-orange)](https://medium.com/@cdndns)
