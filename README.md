@@ -1,7 +1,5 @@
 ### Hi 👋，I'm Steve 
 
-<img src="https://komarev.com/ghpvc/?username=nicelizhi&label=Profile%20views&color=3399FF&style=flat" alt="nicelizhi" />
-
 - 🔭 I’m currently a full stack developer and SRE engineer
 - 🌱 My blog is https://medium.com/@cdndns
 
