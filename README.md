@@ -1,5 +1,6 @@
 ### Hi 👋，I'm Steve 
 
+
 - 🔭 I’m currently a full stack developer and SRE engineer
 - 🌱 My blog is https://medium.com/@cdndns
 
@@ -12,3 +13,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail?style=flat&logo=Gmail&logoColor=white)](mailto:nice.lizhi@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kongfaceworld)
 [![Blog](https://img.shields.io/badge/Blog-orange)](https://medium.com/@cdndns)
+
+![1612495992-915976-image](https://github.com/nicelizhi/nicelizhi/assets/34465153/2912927a-675b-43d5-997e-10b868ef158f)
