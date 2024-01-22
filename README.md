@@ -5,7 +5,7 @@
 - 🌱 My blog is https://medium.com/@cdndns
 
 
-<a href="https://github.com/nicelizhi">
+<a href="https://github.com/xxl4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxl4&show_icons=true&theme=buefy&count_private=true" alt="nicelizhi's github stats" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxl4&theme=buefy&layout=compact" alt="nicelizhi's github top languages" /> 
 </a>
