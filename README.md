@@ -1,7 +1,7 @@
 ### Hi 👋，I'm Steve 
 
 
-- 🔭 I’m currently a Developer and SRE engineer
+- 🔭 I’m currently a Full Stack Developer and SRE
 - 🌱 My blog is https://medium.com/@cdndns
 
 
