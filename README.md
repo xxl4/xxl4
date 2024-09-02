@@ -10,10 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxl4&theme=buefy&layout=compact" alt="xxl4's github top languages" /> 
 </a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxl4&theme=github)
-
-<p>&nbsp;</p>
-
 <h3>Latest Medium Post</h3>
 <p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cdndns/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cdndns/0" width="100%" /> 
 
