@@ -16,3 +16,4 @@
 ### ☕ Get In Touch
 [![Gmail](https://img.shields.io/badge/-Gmail?style=flat&logo=Gmail&logoColor=white)](mailto:nice.lizhi@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-orange)](https://medium.com/@cdndns)
+![](https://komarev.com/ghpvc/?username=xxl4)
