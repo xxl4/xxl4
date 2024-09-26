@@ -6,8 +6,10 @@
 
 
 <a href="https://github.com/xxl4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxl4&show_icons=true&theme=buefy&count_private=true" alt="xxl4's github stats" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxl4&theme=buefy&layout=compact" alt="xxl4's github top languages" /> 
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxl4&show_icons=true&theme=buefy&count_private=true" alt="xxl4's github stats" /> 
+  -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxl4&count_private=true&show_icons=true&theme=react&rank_icon=percentile" alt="xxl4's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxl4&theme=react&layout=compact" alt="xxl4's github top languages" /> 
 </a>
 
 <h3>Latest Medium Post</h3>
