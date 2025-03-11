@@ -19,4 +19,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nice.lizhi@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=linkedin&logoColor=white)](https://medium.com/@cdndns)
 [![Resume](https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=cv&logoColor=white])](https://www.models.net.cn/resume/)
+[![Telegram](https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nullcoding)
 ![](https://komarev.com/ghpvc/?username=xxl4)
